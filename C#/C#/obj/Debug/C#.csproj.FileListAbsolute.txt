@@ -1,0 +1,11 @@
+C:\Users\idilk\source\repos\C#\C#\bin\Debug\C#.exe.config
+C:\Users\idilk\source\repos\C#\C#\bin\Debug\C#.exe
+C:\Users\idilk\source\repos\C#\C#\bin\Debug\C#.pdb
+C:\Users\idilk\source\repos\C#\C#\obj\Debug\C#.csproj.AssemblyReference.cache
+C:\Users\idilk\source\repos\C#\C#\obj\Debug\C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\idilk\source\repos\C#\C#\obj\Debug\C_.Form1.resources
+C:\Users\idilk\source\repos\C#\C#\obj\Debug\C_.Properties.Resources.resources
+C:\Users\idilk\source\repos\C#\C#\obj\Debug\C#.csproj.GenerateResource.cache
+C:\Users\idilk\source\repos\C#\C#\obj\Debug\C#.csproj.CoreCompileInputs.cache
+C:\Users\idilk\source\repos\C#\C#\obj\Debug\C#.exe
+C:\Users\idilk\source\repos\C#\C#\obj\Debug\C#.pdb
